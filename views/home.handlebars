@@ -1,14 +1,50 @@
-{{posted_stuff}}
-<h1>{{ stock.companyName }} ({{stock.symbol}}) </h1>
-<br>
-<br>
-
-<strong>latest Price :</strong> {{ stock.latestPrice}}
+<div class="jumbotron">
+  <h1 class="display-4">{{ stock.companyName }} ({{stock.symbol}}) </h1>
+  
+  <p class="lead"></p>
+  
+  <hr class="my-4">
+  <p><strong>latest Price :</strong> {{ stock.latestPrice}} 
 <strong>Previous :</strong> {{ stock.previousClose}}
 <strong>YTD change :</strong> {{ stock.ytdChange}}%
 <strong>52wk  High :</strong> {{ stock.week52High}}
 <strong>52wk Low :</strong> {{ stock.week52Low}}
+</p>
+  <p class="lead">
+    <a class="btn btn-primary btn-lg" href="#" role="button">Dismiss</a>
+  
+  <form oninput="x.value=(volHeld.value)*{{stock.latestPrice}}","y.value=2">
+  <label for="vol">Volume Held:</label><br>
+  <input type="number" id="volHeld" name="Volume Held"><br>
+  <label for="buyPrice">Price:</label><br>
+  <input type="number" id="buyPrice" name="buyPrice"><br>
+  <label for="CurrentValue">Current Value:</label><br>
+  <input type="number" id="CurrValue" name="CurrValue"><br>
+  <br>
+  Current Market Value: 
+  <output name="x"></output><br>
+  Profit/Loss:
+  <output name="y"></output>
+</form>
 
+
+</form>
+  </p>
+</div>
+
+
+
+
+
+document.getElementId("b1tn").addEventListener('click', addStock);
+
+function addStock() {
+	var newEl = document.createElement("h1");
+	var new content = document.createTextNode("new h tage");
+
+	newEl.appendChild(newcontent);
+	output.appendChild(newEL);
+	console log(":addStock!")}
 
 <!--
 {{#each stock}}

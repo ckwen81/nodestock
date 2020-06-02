@@ -55,7 +55,7 @@ app.get('/', function (req, res) {
 	 	res.render('home',{
 		stock: doneAPI,
 		});	
-	}, 'VERI');
+	}, 'veri');
 });
 
 //Set handlebar POST routes
