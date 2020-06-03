@@ -1,0 +1,268 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"ar",
+				"artist2"
+			],
+			[
+				"art",
+				"artist1"
+			],
+			[
+				"get",
+				"getElementById"
+			],
+			[
+				"artist-input",
+				"artist-input-2"
+			],
+			[
+				"a",
+				"artist-input"
+			],
+			[
+				"ac",
+				"action\tAttr"
+			],
+			[
+				"h",
+				"https"
+			],
+			[
+				"max",
+				"max-width\tproperty"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 392.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/lijiaruan/Documents/nodestockapi/index.js",
+		"/Users/lijiaruan/Downloads/alert.html",
+		"/Users/lijiaruan/Documents/wonka chocolate/index.html",
+		"/Users/lijiaruan/Desktop/Li' Website/index.html",
+		"/Users/lijiaruan/Desktop/Li' Website/css/master.css",
+		"/Users/lijiaruan/Desktop/Li' Website/about.html",
+		"/Users/lijiaruan/Desktop/k-run webpage/style.css",
+		"/Users/lijiaruan/Desktop/k-run webpage/untitled folder/index.html",
+		"/Users/lijiaruan/Desktop/APP/js/helpers/constants.js",
+		"/Users/lijiaruan/Desktop/spotify-artist-battle-app.html/js/helpers/constants.js",
+		"/Users/lijiaruan/Desktop/spotify-artist-battle-app.html/js/helpers/ul.test.js",
+		"/Users/lijiaruan/Desktop/did-spotify-template/public/js/helpers/constants.js",
+		"/Users/lijiaruan/Desktop/APP/app.js",
+		"/Users/lijiaruan/Desktop/APP/js/pages/battle.js",
+		"/Users/lijiaruan/Desktop/APP/battle.html",
+		"/Users/lijiaruan/Desktop/APP/index.html",
+		"/Users/lijiaruan/Documents/U2/css/master.css",
+		"/Users/lijiaruan/Documents/U2/index.html",
+		"/Users/lijiaruan/Desktop/APP/public/battle.html",
+		"/Users/lijiaruan/Desktop/APP/package.json",
+		"/Users/lijiaruan/Desktop/APP/public/js/pages/battle.js",
+		"/Users/lijiaruan/Desktop/APP/public/css/master.css",
+		"/Users/lijiaruan/Desktop/APP/public/index.html",
+		"/Users/lijiaruan/Desktop/APP/public/index copy.html",
+		"/Users/lijiaruan/Desktop/APP/css/master.css",
+		"/Users/lijiaruan/Desktop/APP/battleapp.html",
+		"/Users/lijiaruan/Desktop/untitled.css",
+		"/Users/lijiaruan/Desktop/spotifyapp/APP/css/reset.css/untitled.css",
+		"/Users/lijiaruan/Documents/wonka chocolate/css/reset.css",
+		"/Users/lijiaruan/Desktop/spotifyapp/APP/battleapp.html",
+		"/Users/lijiaruan/Desktop/spotifyapp/public/css/master.css/untitled.css",
+		"/Users/lijiaruan/Documents/wonka chocolate/untitled.html",
+		"/Users/lijiaruan/Documents/wonka chocolate/js/battle.js",
+		"/Users/lijiaruan/did-spotify-template/public/js/helpers/constants.js",
+		"/Users/lijiaruan/Desktop/文案.txt",
+		"/Users/lijiaruan/Desktop/git/biamara/index.html",
+		"/Users/lijiaruan/Desktop/git/biamara/css/master.css",
+		"/Users/lijiaruan/Desktop/git/biamara/view.html",
+		"/Users/lijiaruan/Desktop/git/biamara/new.html",
+		"/Users/lijiaruan/Desktop/git/biamara/js/message.js",
+		"/Users/lijiaruan/Desktop/git/biamara/js/js",
+		"/Users/lijiaruan/Desktop/git/biamara/js/responsiveslides.min.js",
+		"/Users/lijiaruan/Desktop/git/biamara/master.css",
+		"/Users/lijiaruan/Desktop/git/biamara/js/jquery.js",
+		"/Users/lijiaruan/Documents/wonka chocolate/css/master.css",
+		"/Users/lijiaruan/Desktop/git/biamara/css/reset.css",
+		"/Users/lijiaruan/Desktop/git/biamara/css/lightbox.css/untitled.css",
+		"/Users/lijiaruan/Documents/wonka chocolate/css/lightbox.css",
+		"/Users/lijiaruan/Desktop/git/seafood/index.html",
+		"/Users/lijiaruan/Desktop/git/biamara/seafood/index.html",
+		"/Users/lijiaruan/Desktop/seafood bar/index.html/index.html",
+		"/Users/lijiaruan/Downloads/Archive (1)/watercolor icons.svg",
+		"/Users/lijiaruan/Downloads/18/sea patt.svg",
+		"/Users/lijiaruan/Desktop/U2/index.html",
+		"/Users/lijiaruan/Downloads/Springsteen Example Site 2/index.html",
+		"/Users/lijiaruan/Downloads/Springsteen Example Site 2/css/master.css",
+		"/Users/lijiaruan/Downloads/lightbox2-master/examples/index.html",
+		"/Users/lijiaruan/Documents/wonka chocolate/CSS/master.css",
+		"/Users/lijiaruan/Documents/wonka chocolate/index/untitled",
+		"/Users/lijiaruan/Documents/U2/CSS/u2css.css",
+		"/Users/lijiaruan/Documents/wonka chocolate/html.indext/untitled",
+		"/Users/lijiaruan/Documents/default/css/default.css",
+		"/Users/lijiaruan/Documents/new pj/index.html",
+		"/Users/lijiaruan/Documents/new pj/css/css.css",
+		"/Users/lijiaruan/Documents/new pj/css.css",
+		"/Users/lijiaruan/Documents/U2/CSS/u2css",
+		"/Users/lijiaruan/Documents/U2/u2 html.html",
+		"/Users/lijiaruan/Downloads/style.css"
+	],
+	"find":
+	{
+		"height": 39.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 24.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.unsaved_changes":
+	{
+		"height": 102.0
+	},
+	"pinned_build_system": "",
+	"project": "index.sublime-project",
+	"replace":
+	{
+		"height": 44.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 245.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
